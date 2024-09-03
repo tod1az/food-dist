@@ -20,7 +20,7 @@
 * El tipo de combustible es: XXXX
 * Tiene una capacidad de XXXX pasajeros.
 
-# Sistema de districubion Alimentos
+# Sistema de distribución Alimentos
 
 ### Requerimientos del Sistema:
 
