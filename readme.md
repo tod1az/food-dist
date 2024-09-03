@@ -1,36 +1,34 @@
-Requerimientos Sistema de distribucion de comida.
+# Programa Semana 3
 
-    - El sitema debe permitir la compra y calculo de despacho en funcion
-    del total de la compra y la distancia del cliente
+### Entradas por ejecución:
 
-    - El sistema debe permitir iniciar sesion con Google
+* Nombre
+* Edad
+* Marca
+* Modelo
+* Cilindrada
+* Tipo de Combustible
+* Capacidad en pasajeros
 
-Reglas de Negocio
+### Salidas por ejecución:
 
-    - Despacho gratis a domicilio por compras por sobre 50mil dentro de un
-    radio de 20km
+* Nombre
+* Edad
+* La marca que ha ingresado es: XXXX
+* El modelo que ha ingresado es: XXXX
+* La cilindrada que ha ingresado es: XXXX
+* El tipo de combustible es: XXXX
+* Tiene una capacidad de XXXX pasajeros.
 
-    - Para compras entre 25.000 a 49.999 se cobrara una tarifa de
-    $150 por kilometro recorrido
+# Sistema de districubion Alimentos
 
-    - Para comrpas de menos de 25.000 se cobrara una tarifa de $300 por km recorrido
+### Requerimientos del Sistema:
 
+   * El sistema debe permitir la compra y el cálculo de despacho en función del total de la compra y la distancia del cliente.
+   * El sistema debe permitir iniciar sesión con Google.
 
-Programa Semana 3:
-* Entrdas por ejecucion:
-    - Nombre 
-    - Edad
-    - Marca
-    - Modelo
-    - Cilindrada
-    - Tipo de Combustible
-    - Capacidad en pasajeros
+### Reglas de Negocio:
 
-* Salidas por ejecucion:
-    - Nombre 
-    - Edad
-    - La marca que ha ingresado es: XXXX
-    - El modelo que ha ingresado es: XXXX
-    - La cilindrada que ha ingresado es: XXXX
-    - El tipo de combustible es: XXXX
-    - Tiene una capacidad de XXXX pasajeros.
+   * Despacho gratis a domicilio para compras superiores a 50,000 dentro de un radio de 20 km.
+   * Para compras entre 25,000 y 49,999 se cobrará una tarifa de $150 por kilómetro recorrido.
+   * Para compras de menos de 25,000 se cobrará una tarifa de $300 por kilómetro recorrido.
